@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/UI/mainMenu_scene.unity
+    guid: 8e30fab29d4cc43498a45b1ce36951c1
+  - enabled: 1
+    path: Assets/Scenes/UI/uiBase_scene.unity
+    guid: 1abc571675f809041903893053ca15eb
+  - enabled: 1
+    path: Assets/Scenes/UI/victoryDefeatUi_scene.unity
+    guid: 802735bb488fc684ba4d369fd9ad4d59
+  - enabled: 1
+    path: Assets/Scenes/Pending/Stage1_scene.unity
+    guid: bfb1def03943e7548b9c88211737d76b
+  - enabled: 1
+    path: Assets/Scenes/Pending/Stage2_scene.unity
+    guid: 8ab7ff2ed43f5cc4ca4cf61b69f7f24b
+  - enabled: 1
+    path: Assets/Scenes/Pending/Stage3_scene.unity
+    guid: e140305e84285634fb415b62f054b66f
+  - enabled: 1
+    path: Assets/Scenes/Pending/Stage4_scene.unity
+    guid: 9476fca4366638642a0e3c1f2a016fe1
+  - enabled: 1
+    path: Assets/Scenes/Pending/Stage5_scene.unity
+    guid: 473239478f9aab8409098fc5f8a0df0b
+  - enabled: 1
+    path: Assets/Scenes/Pending/Stage6_scene.unity
+    guid: 4abf78f9d5d34d24581d929b59377d62
+  - enabled: 1
+    path: Assets/Scenes/Pending/Stage7_scene.unity
+    guid: 2e6a13d6d54f64448b5c2dfc8423eff4
+  - enabled: 1
+    path: Assets/Scenes/Pending/Stage8_scene.unity
+    guid: fdd9fc9dcd825e84bb305523c6284440
+  - enabled: 1
+    path: Assets/Scenes/Pending/Stage9_scene.unity
+    guid: 9d2a163c40ca4ce4ab64f2e9302e74f8
+  - enabled: 1
+    path: Assets/Scenes/Pending/Stage10_scene.unity
+    guid: 1ec12057e41124d46ab4929f0b88252c
+  - enabled: 1
+    path: Assets/Scenes/Pending/Stage11_scene.unity
+    guid: 0592d6671104bab429205bdaeaaaf920
+  - enabled: 1
+    path: Assets/Scenes/Pending/Stage12_scene.unity
+    guid: af07e2586cc795f42b342cc349eb6877
+  - enabled: 1
+    path: Assets/Scenes/UI/HUD1_scene.unity
+    guid: 4d7e05df3df7f2640bc1841da85b934d
+  - enabled: 1
+    path: Assets/Scenes/UI/PausMenu1_scene.unity
+    guid: b10ff53067f35d743b284d1578fec717
+  - enabled: 1
+    path: Assets/Scenes/UI/effectUi_scene.unity
+    guid: 0262e639791b28440ae9b89cf942d62c
+  - enabled: 1
+    path: Assets/Scenes/UI/Tutorial_scene.unity
+    guid: e19a9d209204bb542a6b1dbd619bdbac
+  - enabled: 1
+    path: Assets/Scenes/UI/Victory_scene.unity
+    guid: be11e3d536357dd478a8753522c6a65f
+  m_configObjects: {}
